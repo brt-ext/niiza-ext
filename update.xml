@@ -3,4 +3,7 @@
   <app appid='gboochhhibggkkhobdafnljldffafcda'>
     <updatecheck codebase='https://brt-ext.github.io/niiza-ext/QRmaker-2.5.crx' version='2.5' />
   </app>
+  <app appid='aliibnfomlcmdjklbnmodgdfdooikahk'>
+    <updatecheck codebase='https://brt-ext.github.io/niiza-ext/PricetarModv5.9.crx' version='5.9' />
+  </app>
 </gupdate>
