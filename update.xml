@@ -7,6 +7,6 @@
     <updatecheck codebase='https://brt-ext.github.io/niiza-ext/PricetarModv5.9.crx' version='5.9' />
   </app>
   <app appid='igkkadaeabnekfhokjjfjanepeflglme'>
-    <updatecheck codebase='https://brt-ext.github.io/niiza-ext/yauc-assist-1.2.0.crx' version='1.2.0' />
+    <updatecheck codebase='https://brt-ext.github.io/niiza-ext/yauc-assist-1.2.0.crx' version='1.3.2' />
   </app>
 </gupdate>
