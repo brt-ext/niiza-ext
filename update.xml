@@ -13,6 +13,6 @@
     <updatecheck codebase='https://brt-ext.github.io/niiza-ext/smaregi-actual-bridge-1.1.1.crx' version='1.1.1' />
   </app>
   <app appid='imlokaegbfhhmmhpdieojjkaageefjae'>
-    <updatecheck codebase='https://brt-ext.github.io/niiza-ext/fbm-assist-1.2.0.crx' version='1.2.0' />
+    <updatecheck codebase='https://brt-ext.github.io/niiza-ext/fbm-assist-1.2.1.crx' version='1.2.1' />
   </app>
 </gupdate>
