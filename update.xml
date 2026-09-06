@@ -16,6 +16,6 @@
     <updatecheck codebase='https://brt-ext.github.io/niiza-ext/fbm-assist-1.4.0.crx' version='1.4.0' />
   </app>
   <app appid='nhlblhcppglgojgmnocfhoaonchapfgf'>
-    <updatecheck codebase='https://brt-ext.github.io/niiza-ext/rms-assist-1.0.0.crx' version='1.0.0' />
+    <updatecheck codebase='https://brt-ext.github.io/niiza-ext/rms-assist-1.1.0.crx' version='1.1.0' />
   </app>
 </gupdate>
