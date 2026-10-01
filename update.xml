@@ -21,4 +21,7 @@
   <app appid='fencinpnfdmplonpimelkpgndbffafdj'>
     <updatecheck codebase='https://brt-ext.github.io/niiza-ext/rakuten-image-1.0.0.crx' version='1.0.0' />
   </app>
+  <app appid='mihkfihogdafadiomaedemnmflniiigh'>
+    <updatecheck codebase='https://brt-ext.github.io/niiza-ext/cross-search-1.0.0.crx' version='1.0.0' />
+  </app>
 </gupdate>
