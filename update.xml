@@ -18,4 +18,7 @@
   <app appid='nhlblhcppglgojgmnocfhoaonchapfgf'>
     <updatecheck codebase='https://brt-ext.github.io/niiza-ext/rms-assist-1.2.0.crx' version='1.2.0' />
   </app>
+  <app appid='fencinpnfdmplonpimelkpgndbffafdj'>
+    <updatecheck codebase='https://brt-ext.github.io/niiza-ext/rakuten-image-1.0.0.crx' version='1.0.0' />
+  </app>
 </gupdate>
